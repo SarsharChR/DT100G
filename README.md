@@ -4,11 +4,11 @@ Sarshar Chavoshi Rad – Civilingenjörsprogrammet i datateknik, Mittuniversitet
 
 Laborationer
 
-Laboration 2 – Javascript/Ajax (1 hp): Fortsatt arbete med Javascript och Ajax.
+Laboration 2 – Javascript/Ajax : Fortsatt arbete med Javascript och Ajax.
 
-Laboration 3 – PHP (1 hp): Arbete med skriptspråket PHP.
+Laboration 3 – PHP : Arbete med skriptspråket PHP.
 
-Laboration 4 – Objektorienterad PHP och databaser (1 hp): Objektorienterad utveckling med PHP samt databaskopplingar.
+Laboration 4 – Objektorienterad PHP och databaser : Objektorienterad utveckling med PHP samt databaskopplingar.
 
 Projekt
 
